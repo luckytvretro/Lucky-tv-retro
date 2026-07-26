@@ -1,2 +1,2 @@
-# Lucky-tv-retro
-Série tv années 80-90
+# Lucky TV Retro
+Projet de départ.
